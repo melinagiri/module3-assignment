@@ -1,0 +1,54 @@
+* {
+    font-family: monospace;
+}
+
+#more {
+    border: 2px solid black;
+    background-color: grey;
+    font-size: 15px;
+    color: black;
+    clear: both;
+    padding: 0;
+}
+
+#Lorem_para {
+    padding: 10px;
+}
+
+.Order {
+    text-align: center;
+    border: 2px solid black;
+    background-color: brown;
+    padding: 5px;
+    width: 150px;
+    margin: 0;
+    font-weight: bold;
+}
+
+#chicken,
+#Cchicken {
+    background-color: rgb(221, 161, 181);
+}
+
+#beef,
+#Bbeef {
+    background-color: rgb(236, 144, 144);
+    color: white;
+}
+
+#sushi,
+#Ssushi {
+    background-color: rgb(252, 252, 2);
+}
+
+.navbar-brand {
+    float: left;
+}
+
+#for_padding {
+    padding: 10px;
+}
+
+@media(min-width:992px) {}
+
+@media(min-width:768px)and (max-width:991px) {}
